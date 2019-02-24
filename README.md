@@ -1,2 +1,6 @@
-# sentiment_analysis_business_analytics
-Sentiment Analysis for Business Analytics
+# Sentiment Analysis for Business Analytics
+
+Guest Lecturer at UC Davis MBA program
+
+
+
